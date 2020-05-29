@@ -1,0 +1,63 @@
+*{
+
+    box-sizing: border-box;
+
+}
+
+html, body{
+
+    height: 100vh;
+
+}
+
+.row{
+
+    min-height: 100%;
+
+    height: auto!important;
+
+    margin: 0;
+
+}
+
+#displayContainer{
+
+    padding: 0;
+
+}
+
+#navH{
+
+    color: white;
+
+    margin: auto;
+
+    padding-bottom: 10px;
+
+}
+
+label{
+
+    font-size: 20px;
+
+}
+
+#searchContainer{
+
+    color: white;
+
+    background-color: rgb(129, 129, 129);
+
+    min-height: 100%;
+
+}
+
+#userInput{
+
+    padding: 3px;
+
+    border: 1px solid rgba(0,0,0,.125);
+
+    border-radius: .25rem;
+
+}
